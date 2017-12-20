@@ -9,7 +9,7 @@ management:
 logging:
   level:
     io:
-      pivotal: ERROR
+      pivotal: INFO
 
 greeting:
   displayFortune: true
